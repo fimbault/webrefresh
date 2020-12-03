@@ -84,10 +84,6 @@ Run the following command:
 learnyouhtml
 ```
 
-You'll see the menu:
-
-![](learnyouhtml.png)
-
 Navigate the menu with the up & down arrow keys. Choose a challenge by hitting enter.
 
 Whenever an exercise tells you to create a file, you should use the files we've already created for you in the `src/` folder. For example, the first file you need to edit is `src/learnyouhtml/index.html`.
@@ -121,10 +117,6 @@ Run the following command:
 javascripting
 ```
 
-You'll see the menu:
-
-![](javascripting.png)
-
 Complete all the exercises. There are 20 in total.
 
 It's easiest if you switch into the `src/javascripting` folder and do your work in there. Here's an example:
@@ -145,11 +137,6 @@ Run the following command:
 ```sh
 learnyounode
 ```
-
-You'll see the menu:
-
-![](learnyounode.png)
-
 Complete all the exercises. There are 13 in total.
 
 Unlike Part 1 and Part 2, this part is likely to contain new material that you might not be familiar with. It is expected that you'll read the [Node.js documentation](https://nodejs.org/api/index.html), do web searches, and come to office hours if you're stuck. In the real world, programmers often have to learn topics quickly in a just-in-time manner to solve problems they encounter. This is good practice! 
@@ -165,9 +152,9 @@ learnyounode verify hello-world.js # check that you did it correctly!
 
 When you're finished with all the exercises, go on to the next part.
 
-## Submit
+## Test
 
-### Before you submit
+### Sanity test
 
 Ensure that the sanity tests pass:
 
